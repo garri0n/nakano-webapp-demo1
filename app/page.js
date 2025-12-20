@@ -106,13 +106,13 @@ export default function Home() {
             <div className="mb-6">
               <h3 className="text-2xl font-semibold text-gray-800 mb-4">Flexbox Examples</h3>
               <div className="flex flex-wrap gap-4 mb-6 p-4 bg-gray-50 rounded-lg">
-                <div className="flex-1 min-w-[200px] p-4 bg-white border rounded-lg text-center">
+                <div className="flex-1 min-w-[200px] p-4 text-gray-950 bg-white border rounded-lg text-center">
                   Flex Item 1
                 </div>
-                <div className="flex-1 min-w-[200px] p-4 bg-white border rounded-lg text-center">
+                <div className="flex-1 min-w-[200px] p-4 text-gray-950 bg-white border rounded-lg text-center">
                   Flex Item 2
                 </div>
-                <div className="flex-1 min-w-[200px] p-4 bg-white border rounded-lg text-center">
+                <div className="flex-1 min-w-[200px] p-4 text-gray-950 bg-white border rounded-lg text-center">
                   Flex Item 3
                 </div>
               </div>
@@ -124,9 +124,9 @@ export default function Home() {
             <div className="mb-6">
               <h3 className="text-2xl font-semibold text-gray-800 mb-4">Grid System</h3>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
-                <div className="p-4 bg-blue-100 rounded-lg text-center">Column 1</div>
-                <div className="p-4 bg-blue-200 rounded-lg text-center">Column 2</div>
-                <div className="p-4 bg-blue-300 rounded-lg text-center">Column 3</div>
+                <div className="p-4 text-gray-950 bg-blue-100 rounded-lg text-center">Column 1</div>
+                <div className="p-4 text-gray-950 bg-blue-200 rounded-lg text-center">Column 2</div>
+                <div className="p-4 text-gray-950 bg-blue-300 rounded-lg text-center">Column 3</div>
               </div>
               <code className="text-sm bg-gray-950 p-2 rounded block">
                 className="grid grid-cols-1 md:grid-cols-3 gap-4"
