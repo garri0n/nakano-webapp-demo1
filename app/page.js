@@ -81,7 +81,7 @@ export default function Home() {
                     Outline Button
                   </button>
                 </div>
-                <code className="text-sm bg-gray-950 p-2 rounded block">
+                <code className="text-sm bg-gray-900 p-2 rounded block">
                   className="px-6 py-3 bg-indigo-600 text-white rounded-lg"
                 </code>
               </div>
@@ -93,7 +93,7 @@ export default function Home() {
                   <h5 className="font-bold text-gray-800 mb-2">Beautiful Card</h5>
                   <p className="text-gray-600 text-sm">This card uses gradient background and shadow utilities.</p>
                 </div>
-                <code className="text-sm bg-gray-950 p-2 rounded block">
+                <code className="text-sm bg-gray-900 p-2 rounded block">
                   className="p-4 bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg"
                 </code>
               </div>
@@ -116,7 +116,7 @@ export default function Home() {
                   Flex Item 3
                 </div>
               </div>
-              <code className="text-sm bg-gray-950 p-2 rounded block">
+              <code className="text-sm bg-gray-900 p-2 rounded block">
                 className="flex flex-wrap gap-4"
               </code>
             </div>
@@ -128,7 +128,7 @@ export default function Home() {
                 <div className="p-4 text-gray-950 bg-blue-200 rounded-lg text-center">Column 2</div>
                 <div className="p-4 text-gray-950 bg-blue-300 rounded-lg text-center">Column 3</div>
               </div>
-              <code className="text-sm bg-gray-950 p-2 rounded block">
+              <code className="text-sm bg-gray-900 p-2 rounded block">
                 className="grid grid-cols-1 md:grid-cols-3 gap-4"
               </code>
             </div>
